@@ -15,8 +15,7 @@ The system queries a 3-paper library on arXiv:
 .
 ├── download_papers.py      # Downloads the exact arXiv PDF versions and extracts text by page
 ├── writeup.md              # The full 2-page engineering write-up with all required sections and tables
-├── writeup.html            # Clean HTML format of the write-up
-├── conversation_history.md # Complete transcript of prompts and interactions with the assistant
+├── writeup.html            # Clean HTML format of the write-u
 ├── results.csv             # Raw per-request test log (158 requests across all load & retrieval runs)
 ├── README.md               # Overview, run instructions, and reproducibility guide
 ├── data/
