@@ -67,5 +67,5 @@ python -m src.compute_tables
 - [x] **writeup.md**: 2 pages, all required headings in exact order, fully filled tables, reflection, and Vaani feedback.
 - [x] **results.csv**: Exact column format, 1 row per request, all table figures strictly recomputable.
 - [x] **Source Code**: Modular Python implementation of pipeline, stand-in service, indexer, and test harness.
-- [x] **conversation_history.md**: Complete prompt and conversation transcript with the AI assistant.
+
 
