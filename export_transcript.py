@@ -39,3 +39,4 @@ with open(output_path, 'w', encoding='utf-8') as f:
     f.writelines(formatted_steps)
 
 print(f"Exported {len(lines)} transcript steps to {output_path}")
+
